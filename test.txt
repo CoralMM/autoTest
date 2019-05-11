@@ -3,4 +3,16 @@
 
 这是要合并的 内容
 
+<<<<<<< HEAD
 这是master分支上的内容
+=======
+
+ew
+
+
+
+
+sfd
+
+这是moergeDemo上添加的内容
+>>>>>>> mergedemo
