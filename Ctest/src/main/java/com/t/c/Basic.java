@@ -25,6 +25,7 @@ public class Basic {
     public void afterMethod(){
         System.out.println("测试之后");
     }
+
     @AfterSuite
     public void afterSuite(){
         System.out.println("AfterSuite");
