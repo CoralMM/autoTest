@@ -5,7 +5,6 @@ import org.testng.annotations.Test;
 public class DepedTest {
     @Test
     public void test1(){
-
         System.out.println("test1 run");
     }
     @Test(dependsOnMethods = {"test1"})
